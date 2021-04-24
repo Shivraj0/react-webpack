@@ -2,6 +2,8 @@
 
 Configuration for setting up a react application using Webpack and babel plugin.
 
-####Usage:
+#### Usage:
+`
 npm install
 npm run start:dev
+`
