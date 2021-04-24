@@ -1,7 +1,14 @@
-# Setup React Application using Webpack
+## Setup React Application using Webpack
 
 Configuration for setting up a react application using Webpack and babel plugin.
 
+#### Installation
+```bash
+npm install
+```
+
 #### Usage:
-`npm install`
-`npm run start:dev`
+```bash
+npm run start:dev // For Development.
+npm run build:prod // For Production Build.
+```
